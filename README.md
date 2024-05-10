@@ -1,4 +1,4 @@
-# Motoko
+# Simple To-do Project
 Canister ID: mkv5r-3aaaa-aaaab-qabsq-cai
 
 import Nat "mo:base/Nat";
